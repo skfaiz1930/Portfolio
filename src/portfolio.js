@@ -1,6 +1,6 @@
 const header = {
 
-  homepage: 'https://skfaiz1930.github.io/cleanfolio',
+  homepage: 'https://skfaiz1930.github.io/portfolio',
   title: 'Sk.',
 }
 
